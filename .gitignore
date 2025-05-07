@@ -1,3 +1,23 @@
+# Byte-compiled Python files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
 venv/
 .env
+.env*/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files (e.g., Mac)
+.DS_Store
+
+# Build/distribution files
+build/
+dist/
+*.egg-info/
