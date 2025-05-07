@@ -1,0 +1,24 @@
+
+{
+    "products": {
+      "smartphones": [
+        {
+          "name": "Galaxy S23",
+          "specs": "6.1\" AMOLED, 128GB storage, 8GB RAM",
+          "price": "$799"
+        }
+      ],
+      "laptops": [
+        {
+          "name": "UltraBook Pro",
+          "specs": "14\" IPS, i7 processor, 16GB RAM, 512GB SSD",
+          "price": "$1299"
+        }
+      ]
+    },
+    "policies": {
+      "returns": "30-day return policy with original packaging",
+      "warranty": "1-year manufacturer warranty",
+      "shipping": "Free shipping on orders over $50"
+    }
+  }
